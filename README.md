@@ -1,9 +1,9 @@
-## node-mysql-crud-app
+## DSR APP
 In this repo I have created the restful api using nodejs, express and mysql
 
-### Author : Rahul Gupta
+### Author : G SAI KUMAR
 
-### `MySQL configuration`
+### `PostgrelSQL configuration`
 Please create database and make the changes in the `config/db.config.js` file.
 
 In the project directory, you can run:
